@@ -22,11 +22,11 @@ Our analysis consisted of descriptive statistics, data visualization, and machin
 
 Baseline results of the model showed decision trees to be the superior model, with an accuracy score of 0.83. The logistic regression model had an accuracy score of 0.54. The decision tree model was also able to predict the dominant mood of a song with a 0.45 accuracy score. After tuning both models further, the decision tree model was able to achieve an accuracy score of 0.85, and the logistic regression model was able to achieve an accuracy score of 0.55. The decision tree model was also able to predict the dominant mood of a song with a 0.46 accuracy score.
 
-### Confusion Matrix for Logistic Regression Model:
-![Baseline Logistic Regression Confusion Matrix](images\baseline_logreg_cm.png)
+### Baseline Confusion Matrix for Logistic Regression Model:
+![Baseline Logistic Regression Confusion Matrix](./images/baseline_logreg_cm.png)
 
-### Confusion Matrix for Decision Tree Model:
-![Baseline Decision Tree Confusion Matrix](images\baseline_dt_cm.png)
+### Baseline Confusion Matrix for Decision Tree Model:
+![Baseline Decision Tree Confusion Matrix](./images/baseline_dt_cm.png)
 
 ### Post-Tuning Confusion Matrix for Decision Tree Model:
 
