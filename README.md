@@ -61,7 +61,7 @@ Based on the analysis, the author recommends the use of audio feature data to pr
 
 ## For More Information
 
-Please review our full analysis in [our Jupyter Notebook](./full-analysis.ipynb) or [our presentation](./presentation.pdf).
+Please review the full analysis in [the Jupyter Notebook](./music_mood_detection_model.ipynb) or [the presentation](./presentation.pdf).
 
 For any additional questions, please contact James Meredith at <jam637.jlm@gmail.com>.
 
